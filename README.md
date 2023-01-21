@@ -12,6 +12,7 @@
 Hi, I'm Kishan Sudani, a passionate self-taught Blockchain and Hyperledger developer from India.
 
 - 🌱 I’m currently learning Hyperledger Fabric, Besu and many more.
+- 🔭 I’m currently working on Decentralized Exchange with p2p orderbook.
 
 **Languages and Tools:**
 
@@ -45,13 +46,6 @@ Hi, I'm Kishan Sudani, a passionate self-taught Blockchain and Hyperledger devel
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=d3athgr1p&repo=Watchdog&theme=material-palenight" />
 </a>
 
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</br>
-</br>
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=kishansudani&theme=react-dark&custom_title=My%20Contributions%20Graph%20is%20like%20a%20Rollercoster%20Ride&bg_color=3333cc&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true) 
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </br>
 
@@ -80,7 +74,7 @@ Hi, I'm Kishan Sudani, a passionate self-taught Blockchain and Hyperledger devel
 
 <code><img height="100" width="100" src="https://metahero.io/animation.svg"><code>
 
-![Snake animation](https://github.com/d3athgr1p/d3athgr1p/blob/main/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/kishansudani/kishansudani/blob/main/images/github-contribution-grid-snake.svg)
 
 </div>
 
