@@ -5,7 +5,6 @@
 <a href="https://www.linkedin.com/in/kishan-sudani"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1"  width="24" height="24" viewBox="0 0 24 24"><path fill="#FFFFFF" d="M21,21H17V14.25C17,13.19 15.81,12.31 14.75,12.31C13.69,12.31 13,13.19 13,14.25V21H9V9H13V11C13.66,9.93 15.36,9.24 16.5,9.24C19,9.24 21,11.28 21,13.75V21M7,21H3V9H7V21M5,3A2,2 0 0,1 7,5A2,2 0 0,1 5,7A2,2 0 0,1 3,5A2,2 0 0,1 5,3Z" /></svg></a>
 <a href="https://twitter.com/Z3R097"><svg viewBox="328 355 335 276" xmlns="http://www.w3.org/2000/svg" width="24" height="24"> <path d="M 630, 425 A 195, 195 0 0 1 331, 600 A 142, 142 0 0 0 428, 570 A  70,  70 0 0 1 370, 523 A  70,  70 0 0 0 401, 521 A 70,  70 0 0 1 344, 455 A  70, 70 0 0 0 372, 460 A  70,  70 0 0 1 354, 370 A 195, 195 0 0 0 495, 442 A  67,  67 0 0 1 611, 380 A 117, 117 0 0 0 654, 363 A  65,  65 0 0 1 623, 401 A 117, 117 0 0 0 662, 390 A  65,  65 0 0 1 630, 425 Z" style="fill:#3BA9EE;"/></a>
 
-
 <br />
 <br />
 
@@ -25,8 +24,8 @@ Hi, I'm Kishan Sudani, a passionate self-taught Blockchain and Hyperledger devel
 <code><img height="30" width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
 <code><img height="30" width="30" src="https://files.gitter.im/ethereum/remix/h3Hj/remix_logo_light.png"></code>
 
-
 <a><h2>Stats</h2></a>
+
 <div>
     <a href="https://github-readme-stats.vercel.app">
         <img width="49%" alt="Stats" src="https://github-readme-stats.vercel.app/api?&count_private=true&include_all_commits=true&username=kishansudani&theme=shades-of-purple&custom_title=GitHub+Stats&hide_border=true"/>
@@ -56,8 +55,10 @@ Hi, I'm Kishan Sudani, a passionate self-taught Blockchain and Hyperledger devel
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </br>
 
-
 <br />
+
+<a href="http://s11.flagcounter.com/more/cpq"><img src="https://s11.flagcounter.com/count2/cpq/bg_FFFFFF/txt_000000/border_CCCCCC/columns_8/maxflags_24/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
+
 <br />
 
 <div> 
@@ -70,7 +71,7 @@ Hi, I'm Kishan Sudani, a passionate self-taught Blockchain and Hyperledger devel
   </a>
   <a href="https://www.linkedin.com/in/kishan-sudani/?locale=en_US" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-  </a> 
+  </a>
 
 <code><img height="100" width="100" src="https://metahero.io/animation.svg"><code>
 
