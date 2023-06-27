@@ -42,14 +42,6 @@ Hi, I'm Kishan Sudani, a passionate self-taught Blockchain and Hyperledger devel
 </a>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</br>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</br>
-
-<br />
-
-<a href="http://s11.flagcounter.com/more/cpq"><img src="https://s11.flagcounter.com/count2/cpq/bg_FFFFFF/txt_000000/border_CCCCCC/columns_8/maxflags_24/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
 
 <br />
 
