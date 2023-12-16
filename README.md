@@ -5,7 +5,7 @@
 Hi, I'm Kishan Sudani, a passionate self-taught Blockchain and Hyperledger developer from India.
 
 - 🌱 I’m currently learning Hyperledger Fabric, Besu, Rust and many more.
-- 🔭 I’m currently working on Decentralized Exchange with p2p orderbook.
+- 🔭 I’m currently working on Decentralized Exchange with p2p orderbook and ERC-4337 wallet.
 
 **Languages**
 
